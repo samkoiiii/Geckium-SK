@@ -182,7 +182,7 @@
 
 <!ENTITY gsettings.flags 'Príznaky - dostupné aj prostredníctvom "about:flags"'>
 
-<!ENTITY gsettings.createYourGecko	"Vytvorte si vlastnú dekoráciu geckia!">
+<!ENTITY gsettings.createYourGecko	"Vytvorte si vlastnú dekoráciu geckium!">
 <!ENTITY gsettings.export			"Exportovať">
 
 <!ENTITY gsettings.clearStartupCacheAndRestartWithWizard	"Vymazať spúšťaciu pamäť a reštartovať s Průvodcom">
