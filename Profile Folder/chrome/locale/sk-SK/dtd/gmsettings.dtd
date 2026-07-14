@@ -150,7 +150,7 @@
 <!ENTITY gsettings.sysThemeIsFallback			"Záložný">
 <!ENTITY gsettings.sysThemeWindows				"Predvolená (Windows)">
 <!ENTITY gsettings.sysThemeClassic				"Klasický">
-<!ENTITY gsettings.sysThemeYou					"Geckium Vy">
+<!ENTITY gsettings.sysThemeYou					"Geckium You">
 <!ENTITY gsettings.sysThemeNative				"Natívny">
 <!ENTITY gsettings.sysThemeMacOSX				"Predvolená (Mac OS X)">
 <!ENTITY gsettings.sysThemeMacOS				"Predvolená (macOS)">
